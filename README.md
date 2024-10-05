@@ -19,4 +19,4 @@ In this project, I applied data analysis and machine learning techniques to pred
 
 This project helped me develop a solid understanding of data preprocessing, feature engineering, and applying machine learning models for real-world regression problems. It also enhanced my ability to evaluate and fine-tune predictive models to achieve better accuracy. 
 
-**Project Link:** [Data Analysis with Python](https://skills.network/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-Skills
+
